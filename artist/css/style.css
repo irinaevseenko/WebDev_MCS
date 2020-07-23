@@ -1,4 +1,4 @@
-h1, h2 {
+.main-header, .section-header {
 	color: white;
 	background: black;
 }  
